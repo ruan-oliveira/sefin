@@ -1,0 +1,8 @@
+apiVersion: v2
+name: ruan
+description: Meu primeiro chart
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+#icon: https://seeklogo.com/images/N/nginx-logo-FF65602A76-seeklogo.com.png
+icon: file://nginx.png
